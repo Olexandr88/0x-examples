@@ -4,7 +4,7 @@ A collection of 0x API code examples
 
 ---
 
-> ⚠️ **WARNING — READ BEFORE USING 0x API**
+>  **IMPORTANT — READ BEFORE USING 0x API**
 >
 > - **NEVER** set an allowance on the [Settler contract](https://0x.org/docs/introduction/0x-cheat-sheet#0x-settler-contracts).  
 >   Doing so may lead to **loss of tokens** or **security risks**.  
